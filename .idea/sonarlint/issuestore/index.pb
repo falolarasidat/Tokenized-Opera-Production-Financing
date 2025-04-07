@@ -7,3 +7,5 @@ S
 #contracts/performance-tracking.clar,c/a/cae0809485c53153a7ba48fe229e6530c569fbc1
 V
 &contracts/production-verification.clar,6/5/65ea5c2b7d27ac9bd92d56cc9c04c01c1934e1a1
+S
+#contracts/revenue-distribution.clar,c/a/ca3977e075ac658f2d637c76dfceb22d2ec66448
